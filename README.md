@@ -1,7 +1,7 @@
 # 📷 Image Gallery  
 
 ### **Image Popup**  
-![Image](../gallery/src/assets/poster.png)  
+![Image](./src/assets/poster.png)  
 
 A simple and interactive **Image Gallery** built using **React.js**. Users can view a collection of images and click on any image to enlarge it.  
 
